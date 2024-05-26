@@ -1,2 +1,4 @@
 # Machine_Learning
 Modelos estadisticos de Machine Learning aplicados a una base de datos sobre operaciones fraudulentas con tarjetas de crédito.
+Este proyecto es una recopilación de implementaciones de diversos algoritmos de aprendizaje automático aplicados a un conjunto de datos común. Los algoritmos incluyen Bayes, LDA (Análisis de Discriminante Lineal), QDA (Análisis de Discriminante Cuadrático), regresión logística y SVM (Máquinas de Vectores de Soporte). Todos estos métodos están destinados a abordar un problema específico sobre detección de fraudes en transacciones con tarjetas de crédito.
+El repositorio contiene scripts de Python que muestran cómo aplicar cada algoritmo paso a paso, desde la carga de datos hasta la evaluación del modelo. Cada implementación está acompañada de comentarios detallados que explican el proceso y la lógica detrás de cada paso.
